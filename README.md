@@ -1,4 +1,5 @@
 Hi, I'm Luthfi Dwi Pratama 👋
+
 💻 Informatics Engineering student at Gunadarma University <br/>
 🎯 Passionate about Full Stack Web Development <br/>
 💡 Currently developing an e-commerce website, Warung Mamayuda, as a personal portfolio project <br/>
